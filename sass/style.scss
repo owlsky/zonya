@@ -332,14 +332,14 @@ footer {
   }
   &-primary {
     background-color: #82c6bf;
-    border-color: #82c6bf;
+    border-color: transparent;
     &:hover {
       background-color: lighten(#82c6bf,10%);
     }
   }
   &-secondary {
     background-color: #47474d;
-    border-color: #47474d;
+    border-color: transparent;
     &:hover {
       background-color: lighten(#47474d,10%);
     }
